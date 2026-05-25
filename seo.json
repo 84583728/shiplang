@@ -1,0 +1,4 @@
+{
+    "hosts": [""],
+    "no_paths": ["/admin", "/test", "/pay", "/mail", "/login", "/api", "/web"]
+}
